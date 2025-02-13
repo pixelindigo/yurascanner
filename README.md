@@ -3,7 +3,8 @@
 
    # YuraScanner: A Task-driven Web Application Scanner
 </div>
-This repository contains the code of YuraScanner --- an LLM-powered web application scanner, first presented at NDSS 2025 [YuraScanner: Leveraging LLMs for Task-driven Web App Scanning](https://dx.doi.org/10.14722/ndss.2025.240388). With our tool, we apply the concept of large language models (LLMs) to the domain of black box web application scanning.
+
+This repository contains the code of YuraScanner --- an LLM-powered web application scanner, first presented at NDSS 2025: [YuraScanner: Leveraging LLMs for Task-driven Web App Scanning](https://dx.doi.org/10.14722/ndss.2025.240388). With our tool, we apply the concept of large language models (LLMs) to the domain of black box web application scanning.
 
 
 ## Ethical Discussion
