@@ -1,0 +1,19 @@
+{
+  "name": "yurascanner",
+  "version": "1.0.0",
+  "dependencies": {
+    "async-prompt": "^1.0.1",
+    "chalk": "^4.1.2",
+    "clipboardy": "^2.3.0",
+    "commander": "^9.4.1",
+    "dedent-js": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "gpt-tokenizer": "^2.1.1",
+    "jimp": "^0.22.10",
+    "openai": "^4.19.0",
+    "puppeteer": "^20.5.0"
+  },
+  "bin": {
+    "yurascanner": "./src/main.js"
+  }
+}

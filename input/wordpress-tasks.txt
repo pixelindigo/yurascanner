@@ -1,0 +1,11 @@
+Create a new blog post.
+Delete a blog post.
+Create a new user account.
+Edit an existing comment.
+Delete a comment.
+Add a new page to the website.
+Create a new category.
+Delete a category.
+Create a new tag.
+Delete a tag.
+Delete one of the media files.
