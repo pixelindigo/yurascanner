@@ -96,7 +96,7 @@ yurascanner --help
   booktitle = {32nd Annual Network and Distributed System Security Symposium, {NDSS}, 2025, San Diego, California, USA, February 24-28, 2025},
   year = {2025},
   doi = {10.14722/ndss.2025.240388},
-  url = {https://dx.doi.org/10.14722/ndss.2025.240388}
+  url = {https://dx.doi.org/10.14722/ndss.2025.240388},
   publisher = {The Internet Society},
 }
 ```
